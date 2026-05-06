@@ -1,2 +1,5 @@
-./.env
+node_modules/
 .env
+logging_middleware/node_modules/
+vehicle_maintence_scheduler/node_modules/
+notification_app_be/node_modules/

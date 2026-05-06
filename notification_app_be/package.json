@@ -1,0 +1,12 @@
+{
+  "name": "notification_app_be",
+  "version": "1.0.0",
+  "description": "Priority inbox for campus notifications",
+  "main": "priority_inbox.js",
+  "scripts": {
+    "start": "node priority_inbox.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}

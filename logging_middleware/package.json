@@ -1,5 +1,9 @@
 {
   "name": "logging-middleware",
   "version": "1.0.0",
-  "main": "index.js"
+  "description": "Reusable logging middleware for evaluation server",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
